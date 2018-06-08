@@ -112,6 +112,7 @@ img {
     font-size: 16px;
     width: 363px;
     border: none;
+    outline: none;
 }
 
 .icons {
