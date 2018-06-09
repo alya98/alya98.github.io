@@ -288,6 +288,9 @@ footer div:last-of-type {
         font-weight: bold;
         color: rgba(0, 0, 0, 0.6);
     }
+    .wrap ul{
+        margin-right: 3%;
+    }
     .wrap li:last-of-type a {
         border: 1px solid rgba(0, 0, 0, 0.2);
         color: rgba(0, 0, 0, 0.6);
@@ -305,7 +308,7 @@ footer div:last-of-type {
     }
     .icons>p {
         display: block;
-        font-size: 1.2em;
+        font-size: 1.3em;
         padding: 0.5em;
         overflow: hidden;
         color: #fff;
